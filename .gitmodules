@@ -1,3 +1,4 @@
 [submodule "module-sub"]
 	path = module-sub
 	url = git@github.com:jialuli3/module-sub.git
+	branch = testing_submodule_branch
